@@ -1,4 +1,4 @@
-package com.github.nyukhalov.leetcode.hamming_distance;
+package com.github.nyukhalov.leetcode.problems.hamming_distance;
 
 class Solution {
     public int hammingDistance(int x, int y) {
