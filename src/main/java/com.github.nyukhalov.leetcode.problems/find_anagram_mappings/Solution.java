@@ -1,5 +1,8 @@
 package com.github.nyukhalov.leetcode.problems.find_anagram_mappings;
 
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int[] anagramMappings(int[] A, int[] B) {
         Map<Integer, Integer> number2Bpos = new HashMap<>();

@@ -1,4 +1,4 @@
-package com.nyukhalov.leetcode.problems.judge_route_circle;
+package com.github.nyukhalov.leetcode.problems.judge_route_circle;
 
 class Solution {
     public boolean judgeCircle(String moves) {
