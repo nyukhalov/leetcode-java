@@ -4,16 +4,6 @@
 
 ### Could not solve
 
-### Solved but it was difficult
-
-```yaml
-- id: 463
-  url: https://leetcode.com/problems/island-perimeter/description/
-  
-  
-```
-
-
 ### Solved
 
 ```yaml
@@ -27,6 +17,7 @@
   type: hash-table
   difficulty: easy
   url: https://leetcode.com/problems/island-perimeter/description/  
+  it-was-difficult: yes
 
 2018-03-23:
 - id: 521
