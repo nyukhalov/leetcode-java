@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-25:
+- id: 21
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/merge-two-sorted-lists/description/
+  first-submission-successful: yes
+  
 - id: 485 
   type: array
   difficulty: easy
