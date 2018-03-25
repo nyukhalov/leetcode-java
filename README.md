@@ -6,8 +6,23 @@
 
 ### Solved
 
+template:
+```yaml
+- id: 
+  type: 
+  difficulty: easy
+  url: 
+  first-submission-successful: yes
+```
+
 ```yaml
 2018-03-25:
+- id: 804
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/unique-morse-code-words/description/
+  first-submission-successful: yes
+  
 - id: 690
   type: hash-table
   difficulty: easy
