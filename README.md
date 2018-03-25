@@ -7,6 +7,12 @@
 ### Solved
 
 ```yaml
+2018-03-25:
+- id: 690
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/employee-importance/description/
+  
 2018-03-24:
 - id: 520
   type: string
