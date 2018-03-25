@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-25:
+- id: 485 
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/max-consecutive-ones/description/
+  first-submission-successful: yes
+  
 - id: 283
   type: array
   difficulty: easy
