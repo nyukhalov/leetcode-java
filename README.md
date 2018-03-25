@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-25:
+- id: 566
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/reshape-the-matrix/description/
+  first-submission-successful: no
+  
 - id: 804
   type: hash-table
   difficulty: easy
