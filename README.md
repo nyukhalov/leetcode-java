@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-25:
+- id: 283
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/move-zeroes/description/
+  first-submission-successful: no
+  
 - id: 566
   type: array
   difficulty: easy
