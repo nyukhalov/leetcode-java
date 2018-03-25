@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-25:
+- id: 83
+  type: linked-list 
+  difficulty: easy
+  url: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+  first-submission-successful: yes
+  
 - id: 21
   type: linked-list
   difficulty: easy
