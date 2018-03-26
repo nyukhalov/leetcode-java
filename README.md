@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-26:
+- id: 171
+  type: https://leetcode.com/problems/excel-sheet-column-number/description/
+  difficulty: easy
+  url: https://leetcode.com/problems/excel-sheet-column-number/description/
+  first-submission-successful: yes
+  
 - id: 258
   type: math
   difficulty: easy
