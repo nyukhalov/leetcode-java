@@ -16,6 +16,13 @@ template:
 ```
 
 ```yaml
+2018-03-26:
+- id: 258
+  type: math
+  difficulty: easy
+  url: https://leetcode.com/problems/add-digits/description/
+  first-submission-successful: yes
+
 2018-03-25:
 - id: 83
   type: linked-list 
