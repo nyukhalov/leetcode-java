@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-26:
+- id: 598
+  type: math
+  difficulty: easy
+  url: https://leetcode.com/problems/range-addition-ii/description/
+  first-submission-successful: no
+  
 - id: 171
   type: https://leetcode.com/problems/excel-sheet-column-number/description/
   difficulty: easy
