@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-27:
+- id: 788
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/rotated-digits/description/
+  first-submission-successful: yes
+  
 - id: 127
   type: array
   difficulty: easy
