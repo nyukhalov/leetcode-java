@@ -16,6 +16,13 @@ template:
 ```
 
 ```yaml
+2018-03-27:
+- id: 127
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+  first-submission-successful: no
+
 2018-03-26:
 - id: 598
   type: math
