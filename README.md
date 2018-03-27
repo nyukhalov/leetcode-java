@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-27:
+- id: 349
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/intersection-of-two-arrays/description/
+  first-submission-successful: yes
+  
 - id: 788
   type: string
   difficulty: easy
