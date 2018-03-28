@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-28:
+- id: 232
+  type: stack
+  difficulty: easy
+  url: https://leetcode.com/problems/implement-queue-using-stacks/description/
+  first-submission-successful: yes
+  
 - id: 496
   type: stack
   difficulty: easy
