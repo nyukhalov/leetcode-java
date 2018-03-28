@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-28:
+- id: 496
+  type: stack
+  difficulty: easy
+  url: https://leetcode.com/problems/next-greater-element-i/description/
+  first-submission-successful: yes
+  
 - id: 169
   type: array
   difficulty: easy
