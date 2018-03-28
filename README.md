@@ -16,6 +16,13 @@ template:
 ```
 
 ```yaml
+2018-03-28:
+- id: 169
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/majority-element/description/
+  first-submission-successful: yes
+
 2018-03-27:
 - id: 349
   type: hash-table
