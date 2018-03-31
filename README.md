@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-31:
+- id: 231
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/power-of-two/description/
+  first-submission-successful: yes
+
 - id: 693
   type: bit-manipulation
   difficulty: easy
