@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-31:
+- id: 693
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/binary-number-with-alternating-bits/description/
+  first-submission-successful: no
+
 - id: 242
   type: sort
   difficulty: easy
