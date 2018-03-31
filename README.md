@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-31:
+- id: 242
+  type: sort
+  difficulty: easy
+  url: https://leetcode.com/problems/valid-anagram/description/
+  first-submission-successful: yes
+
 - id: 455
   type: greedy
   difficulty: easy
