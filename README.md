@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-31:
+- id: 191
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/number-of-1-bits/description/
+  first-submission-successful: yes
+
 - id: 231
   type: bit-manipulation
   difficulty: easy
