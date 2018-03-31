@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-03-31:
+- id: 455
+  type: greedy
+  difficulty: easy
+  url: https://leetcode.com/problems/assign-cookies/description/
+  first-submission-successful: yes
+
 - id: 122
   type: greedy
   difficulty: easy
