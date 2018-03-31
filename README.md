@@ -16,6 +16,13 @@ template:
 ```
 
 ```yaml
+2018-03-31:
+- id: 122
+  type: greedy
+  difficulty: easy
+  url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+  first-submission-successful: yes
+
 2018-03-28:
 - id: 232
   type: stack
