@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-04-01:
+- id: 155
+  type: stack
+  difficulty: easy
+  url: https://leetcode.com/problems/min-stack/description/
+  first-submission-successful: yes
+
 - id: 20
   type: stack
   difficulty: easy
