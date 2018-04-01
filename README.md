@@ -16,6 +16,13 @@ template:
 ```
 
 ```yaml
+2018-04-01:
+- id: 20
+  type: stack
+  difficulty: easy
+  url: https://leetcode.com/problems/valid-parentheses/description/
+  first-submission-successful: yes
+
 2018-03-31:
 - id: 191
   type: bit-manipulation
