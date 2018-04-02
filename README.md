@@ -8,14 +8,21 @@
 
 template:
 ```yaml
-- id: 
-  type: 
+- id:
+  type:
   difficulty: easy
-  url: 
+  url:
   first-submission-successful: yes
 ```
 
 ```yaml
+2018-04-02:
+- id: 104
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+  first-submission-successful: yes
+
 2018-04-01:
 - id: 155
   type: stack
