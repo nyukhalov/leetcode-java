@@ -17,6 +17,12 @@ template:
 
 ```yaml
 2018-04-02:
+- id: 108
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+  first-submission-successful: yes
+
 - id: 104
   type: tree
   difficulty: easy
