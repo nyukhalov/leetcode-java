@@ -2,10 +2,6 @@
 
 ## Logs
 
-### Could not solve
-
-### Solved
-
 template:
 ```yaml
 - id:
@@ -14,6 +10,19 @@ template:
   url:
   first-submission-successful: yes
 ```
+
+### Could not solve
+
+```yaml
+2018-04-02:
+- id: 371
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/sum-of-two-integers/description/
+  first-submission-successful: no
+```
+
+### Solved
 
 ```yaml
 2018-04-02:
