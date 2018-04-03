@@ -25,6 +25,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-03:
+- id: 88
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/merge-sorted-array/description/
+  first-submission-successful: no
+
 2018-04-02:
 - id: 108
   type: tree
