@@ -25,6 +25,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-04:
+- id: 206
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/reverse-linked-list/description/
+  first-submission-successful: yes
+
 2018-04-03:
 - id: 88
   type: array
