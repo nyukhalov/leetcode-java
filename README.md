@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-04:
+- id: 237
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+  first-submission-successful: yes
+
 - id: 206
   type: linked-list
   difficulty: easy
