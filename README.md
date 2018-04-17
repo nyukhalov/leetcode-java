@@ -25,6 +25,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-17:
+- id: 811
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/subdomain-visit-count/description/
+  first-submission-successful: yes
+
 2018-04-04:
 - id: 237
   type: linked-list
