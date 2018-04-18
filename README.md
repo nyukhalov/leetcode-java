@@ -25,6 +25,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-18:
+- id: 806
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/number-of-lines-to-write-string/description/
+  first-submission-successful: yes
+
 2018-04-17:
 - id: 811
   type: hash-table
