@@ -32,6 +32,12 @@ template:
   url: https://leetcode.com/problems/number-of-lines-to-write-string/description/
   first-submission-successful: yes
 
+- id: 637
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
+  first-submission-successful: yes
+
 2018-04-17:
 - id: 811
   type: hash-table
