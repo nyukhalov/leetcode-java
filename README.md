@@ -25,6 +25,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-21:
+- id: 292
+  type: brainteaser
+  difficulty: easy
+  url: https://leetcode.com/problems/nim-game/description/
+  first-submission-successful: yes
+
 2018-04-18:
 - id: 806
   type: none
