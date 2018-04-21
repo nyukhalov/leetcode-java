@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 606
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/construct-string-from-binary-tree/description/
+  first-submission-successful: yes
+
 - id: 653
   type: tree
   difficulty: easy
