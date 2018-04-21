@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 695
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/max-area-of-island/description/
+  first-submission-successful: yes
+
 - id: 717
   type: array
   difficulty: easy
