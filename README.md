@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 448
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+  first-submission-successful: no
+
 - id: 389
   type: hash-table
   difficulty: easy
