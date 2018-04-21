@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 784
+  type: backtracking
+  difficulty: easy
+  url: https://leetcode.com/problems/letter-case-permutation/description/
+  first-submission-successful: no
+
 - id: 226
   type: tree
   difficulty: easy
