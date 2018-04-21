@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 653
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
+  first-submission-successful: yes
+
 - id: 696
   type: string
   difficulty: easy
