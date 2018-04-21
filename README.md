@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 762
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/
+  first-submission-successful: yes
+
 - id: 292
   type: brainteaser
   difficulty: easy
