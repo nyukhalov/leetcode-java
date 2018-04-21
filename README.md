@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 696
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/count-binary-substrings/description/
+  first-submission-successful: yes
+
 - id: 819
   type: string
   difficulty: easy
