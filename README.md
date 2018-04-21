@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 717
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
+  first-submission-successful: yes
+
 - id: 606
   type: tree
   difficulty: easy
