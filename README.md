@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 226
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/invert-binary-tree/description/
+  first-submission-successful: yes
+
 - id: 796
   type: none
   difficulty: easy
