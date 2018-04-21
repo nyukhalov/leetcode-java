@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 389
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/find-the-difference/description/
+  first-submission-successful: yes
+
 - id: 784
   type: backtracking
   difficulty: easy
