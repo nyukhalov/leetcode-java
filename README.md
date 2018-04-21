@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 796
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/rotate-string/description/
+  first-submission-successful: yes
+
 - id: 762
   type: bit-manipulation
   difficulty: easy
