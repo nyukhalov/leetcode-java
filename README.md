@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 819
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/most-common-word/description/
+  first-submission-successful: yes
+
 - id: 448
   type: array
   difficulty: easy
