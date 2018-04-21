@@ -26,6 +26,12 @@ template:
 
 ```yaml
 2018-04-21:
+- id: 268
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/missing-number/description/
+  first-submission-successful: yes
+
 - id: 695
   type: array
   difficulty: easy
