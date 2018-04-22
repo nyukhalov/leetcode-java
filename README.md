@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 100
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/same-tree/description/
+  first-submission-successful: yes
+
 - id: 383
   type: string
   difficulty: easy
