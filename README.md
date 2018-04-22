@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 599
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
+  first-submission-successful: yes
+
 - id: 401
   type: backtracking
   difficulty: easy
