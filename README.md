@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 563
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/binary-tree-tilt/description/
+  first-submission-successful: yes
+
 - id: 387
   type: hash-table
   difficulty: easy
