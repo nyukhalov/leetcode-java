@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 543
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/diameter-of-binary-tree/description/
+  first-submission-successful: yes
+
 - id: 506
   type: none
   difficulty: easy
