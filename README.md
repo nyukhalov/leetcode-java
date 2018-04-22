@@ -14,6 +14,13 @@ template:
 ### Could not solve
 
 ```yaml
+2018-04-22:
+- id: 538
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/convert-bst-to-greater-tree/description/
+  first-submission-successful: no
+
 2018-04-02:
 - id: 371
   type: bit-manipulation
@@ -25,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-22:
+- id: 733
+  type: depth-first-search
+  difficulty: easy
+  url: https://leetcode.com/problems/flood-fill/description/
+  first-submission-successful: no
+
 2018-04-21:
 - id: 268
   type: array
