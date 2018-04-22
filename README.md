@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 383
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/ransom-note/description/
+  first-submission-successful: yes
+
 - id: 733
   type: depth-first-search
   difficulty: easy
