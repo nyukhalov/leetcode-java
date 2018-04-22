@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 387
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/first-unique-character-in-a-string/description/
+  first-submission-successful: yes
+
 - id: 100
   type: tree
   difficulty: easy
