@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 401
+  type: backtracking
+  difficulty: easy
+  url: https://leetcode.com/problems/binary-watch/description/
+  first-submission-successful: yes
+
 - id: 543
   type: tree
   difficulty: easy
