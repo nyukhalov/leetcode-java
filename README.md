@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 506
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/relative-ranks/description/
+  first-submission-successful: yes
+
 - id: 563
   type: tree
   difficulty: easy
