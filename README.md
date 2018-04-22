@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-22:
+- id: 404
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/sum-of-left-leaves/description/
+  first-submission-successful: no
+
 - id: 599
   type: hash-table
   difficulty: easy
