@@ -32,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-23:
+- id: 821
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/shortest-distance-to-a-character/description/
+  first-submission-successful: yes
+
 2018-04-22:
 - id: 404
   type: tree
