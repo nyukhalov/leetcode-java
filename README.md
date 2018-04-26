@@ -32,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-26:
+- id: 415
+  type: math
+  difficulty: easy
+  url: https://leetcode.com/problems/add-strings/description/
+  first-submission-successful: no
+
 2018-04-23:
 - id: 821
   type: none
