@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-28:
+- id: 27
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/remove-element/description/
+  first-submission-successful: yes
+
 - id: 121
   type: array
   difficulty: easy
