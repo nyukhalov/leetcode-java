@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-28:
+- id: 121
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+  first-submission-successful: yes
+
 - id: 661
   type: array
   difficulty: easy
