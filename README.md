@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-28:
+- id: 541
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/reverse-string-ii/description/
+  first-submission-successful: yes
+
 - id: 697
   type: array
   difficulty: easy
