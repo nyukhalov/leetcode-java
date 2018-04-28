@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-28:
+- id: 661
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/image-smoother/description/
+  first-submission-successful: yes
+
 - id: 541
   type: string
   difficulty: easy
