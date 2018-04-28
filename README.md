@@ -32,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-04-28:
+- id: 697
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/degree-of-an-array/description/
+  first-submission-successful: yes
+
 2018-04-26:
 - id: 415
   type: math
