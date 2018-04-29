@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 25
+  type: binary-search,array
+  difficulty: easy
+  url: https://leetcode.com/problems/search-insert-position/description/
+  first-submission-successful: yes
+
 - id: 111
   type: breadth-first-search,tree
   difficulty: easy
