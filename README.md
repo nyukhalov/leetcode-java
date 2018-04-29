@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 674
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+  first-submission-successful: yes
+
 - id: 739
   type: stack
   difficulty: medium
