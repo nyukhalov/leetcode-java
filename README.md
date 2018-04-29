@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 744
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
+  first-submission-successful: yes
+
 - id: 25
   type: binary-search,array
   difficulty: easy
