@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 111
+  type: breadth-first-search,tree
+  difficulty: easy
+  url: https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+  first-submission-successful: yes
+
 - id: 101
   type: tree
   difficulty: easy
