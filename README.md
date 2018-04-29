@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 101
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/symmetric-tree/description/
+  first-submission-successful: yes
+
 - id: 107
   type: breadth-first-search
   difficulty: easy
