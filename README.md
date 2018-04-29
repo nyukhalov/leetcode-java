@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-04-29:
+- id: 739
+  type: stack
+  difficulty: medium
+  url: https://leetcode.com/problems/daily-temperatures/description/
+  first-submission-successful: yes
+
 - id: 225
   type: stack
   difficulty: easy
