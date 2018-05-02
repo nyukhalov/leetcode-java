@@ -32,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-02:
+- id: 824
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/goat-latin/description/
+  first-submission-successful: no
+
 2018-04-29:
 - id: 674
   type: array
