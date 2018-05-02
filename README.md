@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-05-02:
+- id: 492
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/construct-the-rectangle/description/
+  first-submission-successful: no
+
 - id: 824
   type: string
   difficulty: easy
