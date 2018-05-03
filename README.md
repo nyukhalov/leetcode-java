@@ -32,6 +32,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-03:
+- id: 628
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+  first-submission-successful: yes
+
 2018-05-02:
 - id: 492
   type: none
