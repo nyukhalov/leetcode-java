@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-05-03:
+- id: 551
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/student-attendance-record-i/description/
+  first-submission-successful: no
+
 - id: 628
   type: array
   difficulty: easy
