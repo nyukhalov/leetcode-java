@@ -33,6 +33,12 @@ template:
 
 ```yaml
 2018-05-03:
+- id: 671
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
+  first-submission-successful: no
+
 - id: 551
   type: string
   difficulty: easy
