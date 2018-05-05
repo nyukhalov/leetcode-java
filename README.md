@@ -14,6 +14,13 @@ template:
 ### Could not solve
 
 ```yaml
+2018-05-05:
+- id: 70
+  type: dynamic-programming
+  difficulty: easy
+  url: https://leetcode.com/problems/climbing-stairs/description/
+  first-submission-successful: no
+
 2018-04-22:
 - id: 538
   type: tree
