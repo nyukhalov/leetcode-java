@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-06:
+- id: 53
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/maximum-subarray/description/
+  first-submission-successful: no
+
 2018-05-03:
 - id: 671
   type: tree
