@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-08:
+- id: 141
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/linked-list-cycle/description/
+  first-submission-successful: yes
+
 2018-05-06:
 - id: 53
   type: array
