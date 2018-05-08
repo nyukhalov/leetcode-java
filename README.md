@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-08:
+- id: 572
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/subtree-of-another-tree/description/
+  first-submission-successful: no
+
 - id: 141
   type: linked-list
   difficulty: easy
