@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-08:
+- id: 437
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/path-sum-iii/description/
+  first-submission-successful: no
+
 - id: 572
   type: tree
   difficulty: easy
