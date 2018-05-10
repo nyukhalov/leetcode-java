@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-10:
+- id: 202
+  type: math
+  difficulty: easy
+  url: https://leetcode.com/problems/happy-number/description/
+  first-submission-successful: yes
+
 2018-05-09:
 - id: 326
   type: math
