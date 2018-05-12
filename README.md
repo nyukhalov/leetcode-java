@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-12:
+- id: 38
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/count-and-say/description/
+  first-submission-successful: no
+  
 - id: 69
   type: binary-search
   difficulty: easy
