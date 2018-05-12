@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-12:
+- id: 118
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/pascals-triangle/description/
+  first-submission-successful: no
+
 2018-05-10:
 - id: 202
   type: math
