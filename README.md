@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-12:
+- id: 69
+  type: binary-search
+  difficulty: easy
+  url: https://leetcode.com/problems/sqrtx/description/
+  first-submission-successful: no
+  
 - id: 118
   type: array
   difficulty: easy
