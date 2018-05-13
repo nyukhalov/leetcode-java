@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-13:
+- id: 14
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/longest-common-prefix/description/
+  first-submission-successful: no
+  
 - id: 832
   type: none
   difficulty: easy
