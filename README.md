@@ -40,6 +40,12 @@ template:
 
 ```yaml
 2018-05-13:
+- id: 190
+  type: bit-manipulation
+  difficulty: easy
+  url: https://leetcode.com/problems/reverse-bits/description/
+  first-submission-successful: no
+  
 - id: 14
   type: string
   difficulty: easy
