@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-13:
+- id: 832
+  type: none
+  difficulty: easy
+  url: https://leetcode.com/problems/flipping-an-image/description/
+  first-submission-successful: yes
+  
 2018-05-12:
 - id: 38
   type: string
