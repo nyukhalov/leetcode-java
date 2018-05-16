@@ -39,6 +39,13 @@ template:
 ### Solved
 
 ```yaml
+2018-05-16:
+- id: 198
+  type: dynamic-programming
+  difficulty: easy
+  url: https://leetcode.com/problems/house-robber/description/
+  first-submission-successful: no
+  
 2018-05-13:
 - id: 190
   type: bit-manipulation
