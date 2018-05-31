@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-05-16:
+- id: 535
+  type: hash-table
+  difficulty: medium
+  url: https://leetcode.com/problems/encode-and-decode-tinyurl/description/
+  first-submission-successful: yes
+  
 - id: 198
   type: dynamic-programming
   difficulty: easy
