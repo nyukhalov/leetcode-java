@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-05-16:
+- id: 146
+  type: design
+  difficulty: hard
+  url: https://leetcode.com/problems/lru-cache/description/
+  first-submission-successful: no
+  
 - id: 535
   type: hash-table
   difficulty: medium
