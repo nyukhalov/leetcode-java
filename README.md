@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-06-03:
+- id: 23
+  type: linked-list
+  difficulty: hard
+  url: https://leetcode.com/problems/merge-k-sorted-lists/description/
+  first-submission-successful: yes
+  
 2018-05-16:
 - id: 146
   type: design
