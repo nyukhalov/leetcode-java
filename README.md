@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-06-09:
+- id: 238
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/product-of-array-except-self/description/
+  first-submission-successful: no
+  
 2018-06-03:
 - id: 23
   type: linked-list
