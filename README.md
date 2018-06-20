@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-06-20:
+- id: 173
+  type: tree,stack
+  difficulty: medium
+  url: https://leetcode.com/problems/binary-search-tree-iterator/description/
+  first-submission-successful: yes
+
 2018-06-09:
 - id: 238
   type: array
