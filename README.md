@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-07-13:
+- id: 674
+  type: string
+  difficulty: medium
+  url: https://leetcode.com/problems/palindromic-substrings/description/
+  first-submission-successful: yes
+  
 2018-06-20:
 - id: 173
   type: tree,stack
