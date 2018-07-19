@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-07-19:
+- id: 341
+  type: stack
+  difficulty: medium
+  url: https://leetcode.com/problems/flatten-nested-list-iterator/description/
+  first-submission-successful: no
+  
 - id: 78
   type: backtracking
   difficulty: medium
