@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-07-19:
+- id: 78
+  type: backtracking
+  difficulty: medium
+  url: https://leetcode.com/problems/subsets/description/
+  first-submission-successful: yes
+  
 2018-07-13:
 - id: 674
   type: string
