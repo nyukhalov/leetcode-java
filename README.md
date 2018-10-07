@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-10-07:
+- id: 345
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+  first-submission-successful: yes
+
 2018-07-19:
 - id: 341
   type: stack
