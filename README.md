@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-10-08:
+- id: 200
+  type: BFS
+  difficulty: medium
+  url: https://leetcode.com/problems/number-of-islands/description/
+  first-submission-successful: yes
+  
 2018-10-07:
 - id: 345
   type: string
