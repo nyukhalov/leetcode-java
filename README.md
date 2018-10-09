@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-10-09:
+- id: 56
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/merge-intervals/description/
+  first-submission-successful: no
+  
 2018-10-08:
 - id: 200
   type: BFS
