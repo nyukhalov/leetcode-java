@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-10-18:
+- id: 139
+  type: dynamic-programming
+  difficulty: medium
+  url: https://leetcode.com/problems/word-break/description/
+  first-submission-successful: no
+  
 - id: 31
   type: array
   difficulty: medium
