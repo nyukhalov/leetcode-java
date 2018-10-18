@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-10-18:
+- id: 681
+  type: string
+  difficulty: medium
+  url: https://leetcode.com/problems/next-closest-time/description/
+  first-submission-successful: no
+  
 - id: 17
   type: string
   difficulty: medium
