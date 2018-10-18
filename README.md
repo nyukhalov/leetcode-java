@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-10-18:
+- id: 17
+  type: string
+  difficulty: medium
+  url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+  first-submission-successful: yes
+  
 2018-10-09:
 - id: 56
   type: array
