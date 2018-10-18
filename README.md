@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-10-18:
+- id: 31
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/next-permutation/description/
+  first-submission-successful: no
+  
 - id: 681
   type: string
   difficulty: medium
