@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-18:
+- id: 253
+  type: greedy
+  difficulty: medium
+  url: https://leetcode.com/problems/meeting-rooms-ii/submissions/
+  first-submission-successful: yes
+
 2018-10-18:
 - id: 139
   type: dynamic-programming
