@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-19:
+- id: 289
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/game-of-life/
+  first-submission-successful: yes
+
 2018-11-18:
 - id: 253
   type: greedy
