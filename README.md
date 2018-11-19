@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-11-19:
+- id: 904
+  type: two-pointers
+  difficulty: medium
+  url: https://leetcode.com/problems/fruit-into-baskets/
+  first-submission-successful: no
+
 - id: 50
   type: math
   difficulty: medium
