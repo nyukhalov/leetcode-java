@@ -54,11 +54,17 @@ template:
 
 ```yaml
 2018-11-19:
+- id: 50
+  type: math
+  difficulty: medium
+  url: https://leetcode.com/problems/powx-n/
+  first-submission-successful: no
+  
 - id: 289
   type: array
   difficulty: medium
   url: https://leetcode.com/problems/game-of-life/
-  first-submission-successful: yes
+  first-submission-successful: no
 
 2018-11-18:
 - id: 253
