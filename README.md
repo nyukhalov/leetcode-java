@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-21:
+- id: 929
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/unique-email-addresses/
+  first-submission-successful: yes
+
 2018-11-19:
 - id: 904
   type: two-pointers
