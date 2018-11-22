@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-22:
+- id: 54
+  type: medium
+  difficulty: easy
+  url: https://leetcode.com/problems/spiral-matrix/
+  first-submission-successful: no
+
 2018-11-21:
 - id: 929
   type: string
