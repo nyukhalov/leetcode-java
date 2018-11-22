@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-11-22:
+- id: 42
+  type: array
+  difficulty: hard
+  url: https://leetcode.com/problems/trapping-rain-water/
+  first-submission-successful: no
+  
 - id: 54
   type: medium
   difficulty: easy
