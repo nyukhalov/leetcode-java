@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-11-24:
+- id: 616
+  type: string
+  difficulty: medium
+  url: https://leetcode.com/problems/add-bold-tag-in-string/
+  first-submission-successful: no
+  
 - id: 125
   type: string,two-pointers
   difficulty: easy
