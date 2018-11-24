@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-11-24:
+- id: 125
+  type: string,two-pointers
+  difficulty: easy
+  url: https://leetcode.com/problems/valid-palindrome/
+  first-submission-successful: no
+  
 - id: 158
   type: string
   difficulty: hard
