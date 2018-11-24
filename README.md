@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-24:
+- id: 157
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/read-n-characters-given-read4/
+  first-submission-successful: yes
+
 2018-11-22:
 - id: 42
   type: array
