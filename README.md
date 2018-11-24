@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-11-24:
+- id: 158
+  type: string
+  difficulty: hard
+  url: https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
+  first-submission-successful: no
+
 - id: 157
   type: string
   difficulty: easy
