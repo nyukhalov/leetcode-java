@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-11-25:
+- id: 91
+  type: dynamic-programming
+  difficulty: medium
+  url: https://leetcode.com/problems/decode-ways/
+  first-submission-successful: no
+
 2018-11-24:
 - id: 616
   type: string
