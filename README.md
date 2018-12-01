@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-01:
+- id: 28
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/implement-strstr/
+  first-submission-successful: yes
+  
 - id: 301
   type: string
   difficulty: hard
