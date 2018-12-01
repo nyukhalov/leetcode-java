@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-01:
+- id: 297
+  type: tree
+  difficulty: hard
+  url: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+  first-submission-successful: yes
+
 2018-11-25:
 - id: 91
   type: dynamic-programming
