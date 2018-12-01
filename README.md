@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-01:
+- id: 301
+  type: string
+  difficulty: hard
+  url: https://leetcode.com/problems/remove-invalid-parentheses/
+  first-submission-successful: no
+  
 - id: 297
   type: tree
   difficulty: hard
