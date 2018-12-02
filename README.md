@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-02:
+- id: 406
+  type: greedy
+  difficulty: medium
+  url: https://leetcode.com/problems/queue-reconstruction-by-height/
+  first-submission-successful: no
+
 2018-12-01:
 - id: 28
   type: string
