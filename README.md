@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-03:
+- id: 2
+  type: linked-list
+  difficulty: medium
+  url: https://leetcode.com/problems/add-two-numbers/
+  first-submission-successful: no
+
 2018-12-02:
 - id: 406
   type: greedy
