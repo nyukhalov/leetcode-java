@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-04:
+- id: 438
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+  first-submission-successful: no
+
 2018-12-03:
 - id: 2
   type: linked-list
