@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-05:
+- id: 215
+  type: heap
+  difficulty: medium
+  url: https://leetcode.com/problems/kth-largest-element-in-an-array/
+  first-submission-successful: yes
+
 2018-12-04:
 - id: 438
   type: hash-table
