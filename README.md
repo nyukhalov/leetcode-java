@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-06:
+- id: 162
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/find-peak-element/
+  first-submission-successful: yes
+
 2018-12-05:
 - id: 215
   type: heap
