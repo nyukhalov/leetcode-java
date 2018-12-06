@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-06:
+- id: 240
+  type: binary-search
+  difficulty: medium
+  url: https://leetcode.com/problems/search-a-2d-matrix-ii/
+  first-submission-successful: no
+  
 - id: 162
   type: array
   difficulty: medium
