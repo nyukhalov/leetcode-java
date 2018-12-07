@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-07:
+- id: 280
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/wiggle-sort/
+  first-submission-successful: yes
+
 2018-12-06:
 - id: 240
   type: binary-search
