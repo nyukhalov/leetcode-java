@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-08:
+- id: 208
+  type: trie
+  difficulty: medium
+  url: https://leetcode.com/problems/implement-trie-prefix-tree/
+  first-submission-successful: yes
+
 2018-12-07:
 - id: 280
   type: array
