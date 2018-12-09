@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-09:
+- id: 421
+  type: bit-manipulation
+  difficulty: medium
+  url: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+  first-submission-successful: yes
+
 - id: 228
   type: array
   difficulty: medium
