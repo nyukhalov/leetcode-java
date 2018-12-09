@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-09:
+- id: 279
+  type: dynamic-programming
+  difficulty: medium
+  url: https://leetcode.com/problems/perfect-squares/
+  first-submission-successful: no
+
 2018-12-08:
 - id: 208
   type: trie
