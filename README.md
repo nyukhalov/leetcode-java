@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-09:
+- id: 228
+  type: array
+  difficulty: medium
+  url: https://leetcode.com/problems/summary-ranges/
+  first-submission-successful: yes
+
 - id: 279
   type: dynamic-programming
   difficulty: medium
