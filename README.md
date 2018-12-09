@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-09:
+- id: 388
+  type: string
+  difficulty: medium
+  url: https://leetcode.com/problems/longest-absolute-file-path/
+  first-submission-successful: no
+
 - id: 421
   type: bit-manipulation
   difficulty: medium
