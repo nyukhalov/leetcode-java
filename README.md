@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-11:
+- id: 67
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/add-binary/
+  first-submission-successful: yes
+
 2018-12-09:
 - id: 388
   type: string
