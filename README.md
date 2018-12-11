@@ -54,6 +54,12 @@ template:
 
 ```yaml
 2018-12-11:
+- id: 224
+  type: stack
+  difficulty: hard
+  url: https://leetcode.com/problems/basic-calculator/
+  first-submission-successful: yes
+
 - id: 67
   type: string
   difficulty: easy
