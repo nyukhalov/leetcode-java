@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-12:
+- id: 10
+  type: dynamic-programming
+  difficulty: hard
+  url: https://leetcode.com/problems/regular-expression-matching/
+  first-submission-successful: no
+
 2018-12-11:
 - id: 224
   type: stack
