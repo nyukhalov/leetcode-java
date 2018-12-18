@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-18:
+- id: 234
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/palindrome-linked-list/
+  first-submission-successful: yes
+
 2018-12-12:
 - id: 10
   type: dynamic-programming
