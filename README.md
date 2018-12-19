@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-19:
+- id: 160
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/intersection-of-two-linked-lists/
+  first-submission-successful: no
+
 2018-12-18:
 - id: 234
   type: linked-list
