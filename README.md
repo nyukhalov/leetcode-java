@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-20:
+- id: 581
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+  first-submission-successful: no
+
 2018-12-19:
 - id: 160
   type: linked-list
