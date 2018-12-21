@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-21:
+- id: 482
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/license-key-formatting/
+  first-submission-successful: no
+
 2018-12-20:
 - id: 581
   type: array
