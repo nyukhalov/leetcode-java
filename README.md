@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-22:
+- id: 9
+  type: math
+  difficulty: easy
+  url: https://leetcode.com/problems/palindrome-number/
+  first-submission-successful: no
+
 2018-12-21:
 - id: 482
   type: string
