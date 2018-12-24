@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2018-12-24:
+- id: 844
+  type: stack
+  difficulty: easy
+  url: https://leetcode.com/problems/backspace-string-compare/
+  first-submission-successful: no
+
 2018-12-22:
 - id: 9
   type: math
