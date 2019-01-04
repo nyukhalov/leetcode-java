@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-04:
+- id: 203
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/remove-linked-list-elements/
+  first-submission-successful: yes
+
 2018-12-24:
 - id: 844
   type: stack
