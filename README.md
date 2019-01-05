@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-05:
+- id: 716
+  type: design
+  difficulty: easy
+  url: https://leetcode.com/problems/max-stack/
+  first-submission-successful: no
+
 2019-01-04:
 - id: 203
   type: linked-list
