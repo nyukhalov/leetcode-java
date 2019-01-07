@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-07:
+- id: 709
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/to-lower-case/
+  first-submission-successful: yes
+
 2019-01-05:
 - id: 716
   type: design
