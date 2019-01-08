@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-08:
+- id: 346
+  type: queue
+  difficulty: easy
+  url: https://leetcode.com/problems/moving-average-from-data-stream/
+  first-submission-successful: yes
+
 2019-01-07:
 - id: 709
   type: string
