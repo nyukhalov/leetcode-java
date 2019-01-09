@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-09:
+- id: 339
+  type: dfs
+  difficulty: easy
+  url: https://leetcode.com/problems/nested-list-weight-sum/
+  first-submission-successful: yes
+
 2019-01-08:
 - id: 346
   type: queue
