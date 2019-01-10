@@ -53,6 +53,14 @@ template:
 ### Solved
 
 ```yaml
+2019-01-10:
+```yaml
+- id: 905
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/sort-array-by-parity/
+  first-submission-successful: yes
+
 2019-01-09:
 - id: 339
   type: dfs
