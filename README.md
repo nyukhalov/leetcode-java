@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-11:
+- id: 278
+  type: binary-search
+  difficulty: easy
+  url: https://leetcode.com/problems/first-bad-version/
+  first-submission-successful: no
+
 2019-01-10:
 ```yaml
 - id: 905
