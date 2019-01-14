@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-14:
+- id: 703
+  type: heap
+  difficulty: easy
+  url: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+  first-submission-successful: yes
+
 2019-01-12:
 - id: 257
   type: tree
