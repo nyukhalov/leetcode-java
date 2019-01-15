@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-15:
+- id: 205
+  type: hash-table
+  difficulty: easy
+  url: https://leetcode.com/problems/isomorphic-strings/
+  first-submission-successful: no
+
 2019-01-14:
 - id: 703
   type: heap
