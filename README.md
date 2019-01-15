@@ -54,6 +54,11 @@ template:
 
 ```yaml
 2019-01-15:
+- id: 876
+  type: linked-list
+  difficulty: easy
+  url: https://leetcode.com/problems/middle-of-the-linked-list/
+  first-submission-successful: yes
 - id: 205
   type: hash-table
   difficulty: easy
