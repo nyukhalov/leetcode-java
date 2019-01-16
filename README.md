@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-16:
+- id: 189
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/rotate-array/
+  first-submission-successful: no
+
 2019-01-15:
 - id: 876
   type: linked-list
