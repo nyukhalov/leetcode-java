@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-17:
+- id: 443
+  type: string
+  difficulty: easy
+  url: https://leetcode.com/problems/string-compression/
+  first-submission-successful: no
+
 2019-01-16:
 - id: 189
   type: array
