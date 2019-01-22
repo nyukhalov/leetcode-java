@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-01-22:
+- id: 724
+  type: array
+  difficulty: easy
+  url: https://leetcode.com/problems/find-pivot-index/
+  first-submission-successful: no
+
 2019-01-17:
 - id: 443
   type: string
