@@ -53,6 +53,13 @@ template:
 ### Solved
 
 ```yaml
+2019-02-26:
+- id: 700
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/search-in-a-binary-search-tree/
+  first-submission-successful: yes
+
 2019-01-22:
 - id: 724
   type: array
