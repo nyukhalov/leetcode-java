@@ -54,6 +54,13 @@ template:
 
 ```yaml
 2019-02-26:
+- id: 110
+  type: tree
+  difficulty: easy
+  url: https://leetcode.com/problems/balanced-binary-tree/
+  first-submission-successful: no
+
+2019-02-25:
 - id: 700
   type: tree
   difficulty: easy
